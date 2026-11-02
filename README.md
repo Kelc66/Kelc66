@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, redrawn every night from the day's activity" />
+</p>
+
 <!--
 **Kelc66/Kelc66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
